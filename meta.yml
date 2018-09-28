@@ -1,9 +1,10 @@
 ---
-name: Repetición condicional ii kids
+name: Repetición condicional practica
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
-order: []
+order:
+- 1

@@ -1,3 +1,5 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-ii-kids/master/assets/attires/config_1538410692480.json"></gs-attire>
+
 Ya conocemos dos condiciones propias de Gobstones:
 
 * `hayBolitas`, que le ponemos un color de bolitas y nos dice si hay o no bolitas de ese color.

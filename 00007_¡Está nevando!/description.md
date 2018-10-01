@@ -1,3 +1,5 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-ii-kids/master/assets/attires/config_1538410692480.json"></gs-attire>
+
 En los primeros ejercicios vimos dos casos donde el programa se rompía porque nunca se terminaba de ejecutar la repetición condicional. Cuando esto pasa, lo llamamos **bucle infinito**. 
 
 Tendremos que cuidarnos de no generar un _bucle infinito_, revisando:

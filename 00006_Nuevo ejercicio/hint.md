@@ -1,0 +1,1 @@
+No hace falta que modifiques las acciones. Solo nos falta la _condición de corte_ para que dejemos de movernos al Este **cuando** ya **no se pueda**. 

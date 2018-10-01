@@ -11,6 +11,12 @@
   <block type="nroBolitas"></block>
 </category>
 
+<category name="Operadores">
+  <block type="OperadorNumerico"></block>
+  <block type="OperadorLogico"></block>
+  <block type="not"></block>
+</category>
+
 <category name="Procedimientos">
   <category name="Procedimientos primitivos"> </category>
   <category name="Mis procedimientos" custom="PROCEDURE_CALLS"> </category>
@@ -26,11 +32,5 @@
 <category name="Condiciones">
   <block type="hayBolitas"></block>
   <block type="puedeMover"></block>
-  <category name="Otras" gbs_custom="PRIMITIVE_FUNCTIONS"></category>
-</category>
-
-<category name="Operadores">
-  <block type="OperadorNumerico"></block>
-  <block type="OperadorLogico"></block>
-  <block type="not"></block>
+  <category name="Otras" gbs_custom="PRIMITIVE_FUNCTIONS"> </category>
 </category>

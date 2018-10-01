@@ -1,4 +1,5 @@
 check_head_position: false
+expect_endless_while: true
 examples:
  - initial_board: |
      GBB/1.0

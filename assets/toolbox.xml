@@ -26,7 +26,7 @@
 <category name="Condiciones">
   <block type="hayBolitas"></block>
   <block type="puedeMover"></block>
-  <category name="Otras" gbs_custom="PRIMITIVE_FUNCTIONS">
+  <category name="Otras" gbs_custom="PRIMITIVE_FUNCTIONS"></category>
 </category>
 
 <category name="Operadores">

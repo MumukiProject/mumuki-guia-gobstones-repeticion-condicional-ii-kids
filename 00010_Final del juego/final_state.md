@@ -12,7 +12,7 @@ cell 0 1 Negro 1 Rojo 1
 cell 1 1 Negro 1 Rojo 1 
 cell 2 1 Negro 1 Rojo 1 
 cell 3 1 Negro 1 Rojo 1 
-cell 0 0 Rojo 1 Negro 1 
+cell 0 0 Negro 1 Rojo 1 
 cell 1 0 Negro 1 Rojo 1 
 cell 2 0 Negro 1 Rojo 1 
 cell 3 0 Negro 1 Rojo 1 

@@ -3,5 +3,6 @@ size 2 2
 cell 0 1 Negro 12 
 cell 1 1 Negro 12 
 cell 0 0 Rojo 4 
+cell 1 0 Rojo 4 Negro 4 
 head 0 1
  </gs-board>

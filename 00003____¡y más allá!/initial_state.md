@@ -2,7 +2,5 @@
 size 2 2
 cell 0 1 Negro 12 
 cell 1 1 Negro 12 
-cell 0 0 
-cell 1 0 
 head 0 0
  </gs-board>

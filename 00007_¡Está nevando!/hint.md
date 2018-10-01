@@ -1,1 +1,1 @@
-El caso borde es que teja la trama en el último cuadradito, sin moverse nuevamente al Norte (porque ya no puede hacerlo). Pensá si debería ir dentro o fuera de la repetición condicional.
+El caso borde es que teja la trama en el último cuadradito, sin moverse nuevamente al Norte (porque ya no puede hacerlo). Pensá si debería ir dentro o fuera de la repetición condicional. 

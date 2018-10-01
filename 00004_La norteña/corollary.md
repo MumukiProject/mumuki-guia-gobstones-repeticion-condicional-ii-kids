@@ -1,0 +1,3 @@
+¡Muy bien! Ya sabemos usar `puedeMover`. Esta condición es muy importante para que podamos movernos sin miedo, porque con esto sabemos que nos moveremos solo cuando se pueda. Así, el programa no se romperá nunca. :tada:
+
+Los pueblos, antiguamente, también se movían mucho porque tenían que buscar los alimentos en distintos lugares. Por eso, se decían que eran **nómades**. Los Wichís, en cambio, se volvieron **sedentarios** en el siglo XVI (16), porque se empezaron a _asentar_ cerca de los ríos, donde podían dedicarse a la _pesca_, a la _agricultura_ y guardar los excedentes.

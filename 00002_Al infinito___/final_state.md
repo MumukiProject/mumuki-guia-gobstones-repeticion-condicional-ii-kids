@@ -1,7 +1,1 @@
-<gs-board without-header> GBB/1.0
-size 2 2
-cell 0 1 Negro 4 Rojo 4 
-cell 1 1 Negro 4 Rojo 4 
-cell 0 0 Negro 4 Rojo 4 
-cell 1 0 Negro 4 Rojo 4 
-head 1 1 </gs-board>
+<img src='https://user-images.githubusercontent.com/1631752/37945593-54b482c0-3157-11e8-9f32-bd25d7bf901b.png'>

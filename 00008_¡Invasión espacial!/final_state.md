@@ -9,6 +9,7 @@ cell 3 2 Negro 1 Rojo 1
 cell 1 1 Negro 1 Rojo 1 
 cell 2 1 Negro 1 Rojo 1 
 cell 3 1 Negro 1 Rojo 1 
+cell 0 0 Azul 1 
 cell 1 0 Negro 1 Rojo 1 
 cell 2 0 Negro 1 Rojo 1 
 cell 3 0 Negro 1 Rojo 1 

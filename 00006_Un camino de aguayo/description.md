@@ -1,5 +1,8 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-ii-kids/master/assets/attires/config_1538410692480.json"></gs-attire>
 
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-ii-kids/master/assets/toolbox.xml">
+</gs-toolbox>
+
 Ahora que sabemos movernos sin romper el programa, estaría bueno movernos por todo el telar, obteniendo tejidos más grandes. ¿Te imaginás qué tendremos que combinar para lograrlo?
 
 ¡Pensémoslo en este ejercicio!

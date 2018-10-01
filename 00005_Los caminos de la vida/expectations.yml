@@ -1,0 +1,12 @@
+---
+expectations:
+- binding: program
+  inspection: UsesIf
+- binding: program
+  inspection: Uses:puedeMover
+- binding: program
+  inspection: Uses:TejerSerpiente
+- binding: program
+  inspection: Uses:TejerFlor
+- binding: program
+  inspection: Uses:TejerCorazon

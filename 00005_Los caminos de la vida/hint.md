@@ -1,0 +1,1 @@
+Tené cuidado de que, en cada alternativa, la condición se relacione con las acciones que queremos ejecutar.

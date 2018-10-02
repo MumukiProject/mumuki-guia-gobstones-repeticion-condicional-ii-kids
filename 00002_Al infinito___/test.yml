@@ -1,3 +1,4 @@
+expect_endless_while: true
 check_head_position: false
 examples:
  - initial_board: |
@@ -8,4 +9,3 @@ examples:
      cell 0 0 Negro 4 Rojo 4 
      cell 1 0 Negro 4 Rojo 4 
      head 1 1
-   expect_endless_while: true

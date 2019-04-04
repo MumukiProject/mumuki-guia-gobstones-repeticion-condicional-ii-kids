@@ -3,8 +3,8 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-ii-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
-En el ejercicio anterior vimos que se puede romper todo si hacemos una _repetición_ que _nunca_ se _termine_ de ejecutar. Esto pasó porque las acciones que usamos hacían y deshacían la misma tarea, y de esa manera nunca llegaríamos al final. 
+En el ejercicio anterior vimos que se puede romper todo si hacemos una _repetición_ que _nunca_ se _termine_ de ejecutar :sweat_smile:. Esto pasó porque las acciones que usamos hacían y deshacían la misma tarea, y de esa manera nunca llegaríamos al final. :weary:
 
-Veamos otro ejemplo donde la repetición podría generar el **BOOM**.
+Veamos otro ejemplo donde la repetición podría generar el **BOOM**. :boom:
 
 > Completá la condición de esta repetición para que trence hilos `hasta que no hayan bolitas azules`.

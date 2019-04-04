@@ -3,7 +3,7 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-ii-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
-Ahora que sabemos movernos sin romper el programa :sunglasses:, estaría bueno movernos por todo el telar, obteniendo tejidos más grandes :open_mouth:. ¿Te imaginás qué tendremos que combinar para lograrlo? :grin:
+Ahora que sabemos movernos sin romper el programa, estaría bueno movernos por todo el telar, obteniendo tejidos más grandes :open_mouth:. ¿Te imaginás qué tendremos que combinar para lograrlo? :grin:
 
 ¡Pensémoslo en este ejercicio!
 

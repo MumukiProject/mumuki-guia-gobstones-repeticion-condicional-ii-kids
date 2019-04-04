@@ -9,4 +9,4 @@ Pero ojo :eyes:, el telar tiene un tamaño determinado; si seguimos tejiendo fue
 
 ¿Existirá alguna condición _propia de Gobstones_ que nos permita avanzar sin salirnos del telar? ¡Averigüémoslo! :smiley:
 
-> Mirá este programa que te dejamos. Imaginá lo que hará y luego ejecutalo para comprobarlo.
+> Mirá este `programa` que te dejamos. Imaginá lo que hará y luego ejecutalo para comprobarlo.

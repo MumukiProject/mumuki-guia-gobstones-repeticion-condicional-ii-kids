@@ -1,3 +1,3 @@
- Otra vez se rompió el programa, pero esta vez no fue por culpa de las acciones... ¿O sí? La único que hicimos fue `trenzar hilos`, ¿pero hasta cuándo? Hasta que `no hubieran bolitas azules`. 
+Otra vez se rompió el programa :confounded:, pero esta vez no fue por culpa de las acciones... ¿O sí? :sweat_smile: La único que hicimos fue `trenzar hilos`, ¿pero hasta cuándo? Hasta que `no hubieran bolitas azules`. 
 
-¡Ahí está el problema! :confused: Repetimos el trenzado esperando terminar la trama en algún momento y eso no tiene nada que ver con la cantidad de bolitas azules que hayan. Por eso, es _importante_ que la **acción** nos **acerque** en cada repetición **a la condición de corte**. :grin:
+¡Ahí está el problema! :confused: Repetimos el trenzado esperando terminar la trama en algún momento y eso no tiene nada que ver con la cantidad de bolitas azules que hayan :grimacing:. Por eso, es _importante_ que la **acción** nos **acerque** en cada repetición **a la condición de corte**. :grin:

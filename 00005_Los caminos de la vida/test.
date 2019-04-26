@@ -35,10 +35,10 @@ examples:
      head 0 0
  - initial_board: |
      GBB/1.0
-     size 1 1
-     head 0 0
+     size undefined undefined
+     head NaN NaN
    final_board: |
      GBB/1.0
-     size 1 1
-     cell 0 0 Negro 3
-     head 0 0
+     size undefined undefined
+     cell 0 NaN Negro 3 
+     head NaN NaN

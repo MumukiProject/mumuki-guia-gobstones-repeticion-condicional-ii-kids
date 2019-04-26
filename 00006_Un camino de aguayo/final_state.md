@@ -6,4 +6,16 @@ cell 2 1 Negro 5 Rojo 5
 cell 0 0 Negro 5 Rojo 5 
 cell 1 0 Negro 5 Rojo 5 
 cell 2 0 Negro 5 Rojo 5 
-head 3 0 </gs-board>
+head 3 0
+ </gs-board>
+<gs-board without-header> GBB/1.0
+size 5 2
+cell 0 1 Rojo 5 Negro 5 
+cell 1 1 Rojo 5 Negro 5 
+cell 2 1 Rojo 5 Negro 5 
+cell 3 1 Rojo 5 Negro 5 
+cell 0 0 Rojo 5 Negro 5 
+cell 1 0 Rojo 5 Negro 5 
+cell 2 0 Rojo 5 Negro 5 
+cell 3 0 Rojo 5 Negro 5 
+head 3 1 </gs-board>

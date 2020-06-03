@@ -5,6 +5,15 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "En esta actividad combinamos todo lo que aprendimos. La repetición
+  condicional se repite hasta que se cumple la condición de corte, ¿cuándo queremos
+  dejar de tejer? También vimos que para evitar quedar en un bucle infinito hay que
+  aproximarse a la condición de corte, es decir, realizar tareas que modifiquen algo
+  en cada repetición para que llegue un punto en que la condición se cumpla y dejemos
+  de repetir. En este caso, ¿cuáles son las condiciones de corte y las acciones que
+  se aproximan a ellas?\n\nPor último: \n\n* ¿Tuviste en cuenta el caso borde? \n*
+  ¿Qué ocurre si no lo incluímos? \n* Según la forma en que se trate el caso borde
+  este programa permite variantes, ¿se te ocurre una solución diferente a la que programaste?"
 manual_evaluation: false
 choices: []
 name: Final del juego

@@ -5,6 +5,9 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "En esta actividad tenemos que volver a usar la condición `puede mover`.
+  Para pensar: \n\n*  ¿Cuál es la diferencia entre usarla en una alternativa condicional
+  y usarla en una repetición condicional?\n*  ¿Qué debemos cambiar en este caso?"
 manual_evaluation: false
 choices: []
 name: Un camino de aguayo

@@ -5,6 +5,9 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Para pensar: \n\n* ¿Debemos realizar algún tipo de repetición en esta
+  actividad? \n* ¿Cómo funciona la alternativa condicional `si, si no, si`? \n* ¿Cuál
+  es la condición para cada tarea? \n* ¿Cuándo haremos el corazón?"
 manual_evaluation: false
 choices: []
 name: Los caminos de la vida

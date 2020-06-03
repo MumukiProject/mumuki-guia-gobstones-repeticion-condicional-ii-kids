@@ -5,6 +5,10 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Es muy importante analizar con cuidado lo que ocurre en esta actividad.
+  Antes de ejecutar el programa: \n\n* ¿Qué pensás que hace? \n* ¿Qué creés que ocurrirá
+  al ejecutarlo? \n* ¿Qué pensás que ocurrirá con las bolitas del casillero? \n* Luego
+  de ejecutarlo, ¿por qué pensás que termina así? ¿Le cambiarías algo?"
 manual_evaluation: false
 choices: []
 name: María La Paz, un paso pa' atrás

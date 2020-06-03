@@ -5,6 +5,11 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Cuando conocimos la repetición simple nos encontramos con los casos
+  borde, situaciones que teníamos que contemplar por fuera del bloque para no olvidarnos
+  de hacerlas ni para hacer un movimiento de más. En la repetición condicional también
+  tenemos que tenerla en cuenta: \n\n* ¿Cuál es el caso que tenemos que considerar
+  en esta solución? \n* ¿Cómo puedo solucionarlo?"
 manual_evaluation: false
 choices: []
 name: "¡Está nevando!"

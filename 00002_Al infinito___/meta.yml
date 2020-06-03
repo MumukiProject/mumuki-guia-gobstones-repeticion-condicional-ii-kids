@@ -5,6 +5,10 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Para pensar: \n\n* ¿Cuál creés que será el resultado al ejecutar este
+  ejercicio? \n* ¿Qué pasará con las bolitas? * ¿Qué resultado obtenemos al hacerlo?
+  \n* ¿Qué diferencia encontrás con el ejercicio anterior? \n* ¿Qué cambiarías en
+  este caso?"
 manual_evaluation: false
 choices: []
 name: Al infinito...

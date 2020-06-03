@@ -3,7 +3,11 @@ name: Hay tela para rato
 locale: es
 type: practice
 beta: false
-teacher_info: ''
+teacher_info: "Antes de empezar con esta lección repasemos lo que aprendimos:\n\n*
+  ¿Cuándo usamos la repetición simple?\n* ¿Cuándo usamos la repetición condicional?
+  \n* ¿Qué información requiere cada una? \n* ¿De qué se ocupa la condición?\n\nCuando
+  utilizábamos la repetición simple debimos reconocer y ocuparnos del *caso borde*,
+  ¿qué ocurrirá con esas situaciones al usar las repeticiones condicionales?"
 language: gobstones
 id_format: "%05d"
 order:
